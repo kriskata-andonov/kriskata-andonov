@@ -1,5 +1,7 @@
 Hi there 👋
+
 I’m currently working on nothing cool.
+
 My interests include cats, AI and wireless technologies.
 
 <!--
